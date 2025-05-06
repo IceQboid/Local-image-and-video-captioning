@@ -61,7 +61,7 @@
 
 
 
-4. **Example Outputs**:
+## OUTPUT SCREENSHOTS
    - CLI:
      ![output1_CLI](https://github.com/user-attachments/assets/882577f1-64ba-4e55-a20c-56c8974abb1c)
      ![output2_CLI](https://github.com/user-attachments/assets/497286de-68b7-4d29-81b1-7ea9e2a72b88)
