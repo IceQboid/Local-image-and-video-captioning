@@ -24,7 +24,7 @@
 
     
 ## Usage
-1. **Ollama CLI **:
+1. **Ollama CLI**:
     - To use the model for image captioning in terminal, run:
     ```bash
     ollama run llava
