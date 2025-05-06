@@ -65,11 +65,11 @@
    - CLI:
      ![output1_CLI](https://github.com/user-attachments/assets/882577f1-64ba-4e55-a20c-56c8974abb1c)
      ![output2_CLI](https://github.com/user-attachments/assets/497286de-68b7-4d29-81b1-7ea9e2a72b88)
-   - Interface:
-     ![output1_UI](https://github.com/user-attachments/assets/80f3c844-cacb-418d-8bef-05184a24bf87)
-     ![output2_UI](https://github.com/user-attachments/assets/74b93373-bac1-4d35-b207-289a72f110d1)
-   - Video Output:
-     ![video_output](https://github.com/user-attachments/assets/71cb6a6a-8cc1-4f1c-8548-98db70f7c51b)
-   - Chat Interface:    
+   - Interface(BONUS):
+         ![output1_UI](https://github.com/user-attachments/assets/80f3c844-cacb-418d-8bef-05184a24bf87)
+         ![output2_UI](https://github.com/user-attachments/assets/74b93373-bac1-4d35-b207-289a72f110d1)
+       - Video Output:
+         ![video_output](https://github.com/user-attachments/assets/71cb6a6a-8cc1-4f1c-8548-98db70f7c51b)
+   - Chat Interface(BONUS):    
      ![chat_output](https://github.com/user-attachments/assets/6f5a5375-7f1e-4801-b4e2-bbd245667dd1)
 
