@@ -29,12 +29,12 @@
     ```bash
     ollama run llava
     ```
-    - After pulling the llava model initially.
+   After pulling the llava model initially.
     - Then at the prompt, include the path to your image in the prompt:
-    - >>> What's in this image? `/Users/jmorgan/Desktop/smile.png` 
+     >>> What's in this image? `/Users/jmorgan/Desktop/smile.png` 
     OR
-    - In our case, to get the desired output format use:
-    >>> Give a title, 2 or 3 sentences of description and at least 3 features to at most 5 features for this image `image_path`
+    In our case, to get the desired output format use:
+     >>> Give a title, 2 or 3 sentences of description and at least 3 features to at most 5 features for this image `image_path`
 
 2. **Interface**:
     - To use the model for both image or video captioning through Interface, Run:
