@@ -25,7 +25,7 @@
     
 ## Usage
 1. **Ollama CLI**:
-    - To use the model for image captioning in terminal, Run:
+    - To use the model for image captioning in terminal, run:
     ```bash
     ollama run llava
     ```
@@ -41,7 +41,7 @@ OR
 In our case, to get the desired output format use:
    
 ```bash
-    Give a title, 2 or 3 sentences of description and at least 3 features to at most 5 features for this image `image_path`
+Give a title, 2 or 3 sentences of description and at least 3 features to at most 5 features for this image `image_path`
 ```
 
 3. **Interface**:
