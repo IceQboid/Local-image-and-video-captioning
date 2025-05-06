@@ -34,7 +34,7 @@
     1.1 Then at the prompt, include the path to your image in the prompt :
    
    ```bash
-   What's in this image? `/Users/jmorgan/Desktop/smile.png
+   What's in this image? `/Users/jmorgan/Desktop/smile.png`
    ```
    
     OR
