@@ -56,7 +56,7 @@
 - Included chat interface along with the desired output to get queries answered based on the image/video.
 - To run it simply use
   ```bash
-  python bonuschat.py
+  python chat.py
   ```
 
 
