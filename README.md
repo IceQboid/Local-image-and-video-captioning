@@ -34,14 +34,13 @@
 1.1 Then at the prompt, include the path to your image in the prompt:
    
    ```bash
-   What's in this image? `/Users/jmorgan/Desktop/smile.png`
+   What's in this image? `/Users/jmorgan/Desktop/smile.png
    ```
    
-    OR
+OR
+In our case, to get the desired output format use:
    
-    In our case, to get the desired output format use:
-
-     ```bash
+    ```bash
     Give a title, 2 or 3 sentences of description and at least 3 features to at most 5 features for this image `image_path`
      ```
 
