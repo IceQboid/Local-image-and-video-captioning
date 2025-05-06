@@ -31,11 +31,13 @@
     ```
    After pulling the llava model initially.
 1.1 Then at the prompt, include the path to your image in the prompt:
+   
    What's in this image? `/Users/jmorgan/Desktop/smile.png`
    
     OR
    
     In our case, to get the desired output format use:
+   
     Give a title, 2 or 3 sentences of description and at least 3 features to at most 5 features for this image `image_path`
 
 3. **Interface**:
