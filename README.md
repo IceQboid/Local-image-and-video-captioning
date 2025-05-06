@@ -68,6 +68,7 @@
    - Interface:
      ![output1_UI](https://github.com/user-attachments/assets/80f3c844-cacb-418d-8bef-05184a24bf87)
      ![output2_UI](https://github.com/user-attachments/assets/74b93373-bac1-4d35-b207-289a72f110d1)
+   - Video Output:
      ![video_output](https://github.com/user-attachments/assets/71cb6a6a-8cc1-4f1c-8548-98db70f7c51b)
    - Chat Interface:    
      ![chat_output](https://github.com/user-attachments/assets/6f5a5375-7f1e-4801-b4e2-bbd245667dd1)
