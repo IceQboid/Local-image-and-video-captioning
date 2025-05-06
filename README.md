@@ -30,6 +30,7 @@
     ollama run llava
     ```
    After pulling the llava model initially.
+   
 1.1 Then at the prompt, include the path to your image in the prompt:
    
    ```bash
